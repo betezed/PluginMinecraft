@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HackndoMinecraft:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HackndoMinecraft_jar</output-path>
+    <root id="archive" name="HackndoMinecraft.jar">
+      <element id="module-output" name="HackndoMinecraft" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/bukkit-1.7.2-R0.3.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+name: TestHackndo
+main: com.hackndo.bukkit.Test
+version: 1.0
+description: Simple plugin for testing purpose
+author: Bet3zed
+commands:
+  help:
+    description: Displays the list of command
+    usage: /help [page]
+    permission: permission.help
+    aliases:
+    - h
+permissions:
+  plugin.help:
+    description: Enabled the help
+    default: true
